@@ -1,0 +1,16 @@
+{
+  "name": "ufo-50-palette",
+  "displayName": "UFO-50 Palette",
+  "description": "Palette from UFO-50",
+  "version": "1.0",
+  "author": { "name": "Mike Purdy", "url": "https://mikepurdy.dev/" },
+  "publisher": "aseprite",
+  "categories": [
+    "Palettes"
+  ],
+  "contributes": {
+    "palettes": [
+      { "id": "UFO-50", "path": "./ufo-50.gpl" }
+    ]
+  }
+}
